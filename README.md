@@ -2,8 +2,8 @@
 
 
 # Dataset:
-# Name: Mental Health data
-# Description: a dataset with 19 features with a binary 'depression' column which we can use as a predictor in our experiments for the report
+Name: Mental Health data
+Description: a dataset with 19 features with a binary 'depression' column which we can use as a predictor in our experiments for the report
 
 # Folder Structure
 train.csv - labelled dataset we can use to train ML models against and 
