@@ -22,7 +22,12 @@ test.R - R script where we can use the
 ### Notes
 T - I was thinking that because R is a bit of a weird language we could initially use python to develop a bit of a prototype for doing some of the invesitgatory work, and then once we have a solid grasp of it, convert it over to R code 
 
+
+### Links:
+shared drive: 
+
 ### TODO:
-1. split up different sections (cleaning and exploring data, data preprocessing and feature engineering, using ML models to perform binary classification on dataset) 
+1. split up different sections (cleaning and exploring data, data preprocessing and feature engineering, using ML models to perform binary classification on dataset)
+2. create shared drive
 
 
