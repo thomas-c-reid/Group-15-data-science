@@ -25,6 +25,7 @@ T - I was thinking that because R is a bit of a weird language we could initiall
 
 ### Links:
 shared drive: 
+Link to original dataset: https://www.kaggle.com/competitions/playground-series-s4e11/overview
 
 ### TODO:
 1. split up different sections (cleaning and exploring data, data preprocessing and feature engineering, using ML models to perform binary classification on dataset)
